@@ -1,2 +1,2 @@
 # ReactNative
-인력관리 react native + firebase
+인력관리App = react native + firebase
